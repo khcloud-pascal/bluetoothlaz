@@ -1,0 +1,28 @@
+object Form1: TForm1
+  Left = 588
+  Height = 442
+  Top = 319
+  Width = 700
+  Caption = 'Form1'
+  ClientHeight = 442
+  ClientWidth = 700
+  LCLVersion = '2.0.11.0'
+  object BuFindBluetooth: TButton
+    Left = 119
+    Height = 25
+    Top = 58
+    Width = 75
+    Caption = 'BuFindBluetooth'
+    OnClick = BuFindBluetoothClick
+    TabOrder = 0
+  end
+  object ConnectRF: TButton
+    Left = 115
+    Height = 25
+    Top = 132
+    Width = 75
+    Caption = 'ConnectRF'
+    OnClick = ConnectRFClick
+    TabOrder = 1
+  end
+end
