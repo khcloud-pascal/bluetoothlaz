@@ -2,7 +2,11 @@
 
 THIS IS AN INOFFITIAL FORK OF BLUETOOTHLAZ FROM <http://sourceforge.net/projects/lazarus-ccr/files/Bluetooth/>
 
-The bluetoothlaz package provides bindings and functions to access bluetooth devices under various platforms.
+See <https://wiki.freepascal.org/Bluetooth> for the wiki
+
+---
+
+The bluetoothlaz package provides bindings and functions to access bluetooth devices under various platforms for FPC/ and Lazarus.
 
 ## About
 The bluetoothlaz package provides bindings and functions to access bluetooth devices under various platforms. It contains examples, like accessing the Wii Remote.
