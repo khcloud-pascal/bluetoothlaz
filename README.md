@@ -89,3 +89,8 @@ This example attempts to connect to a remote device identified by Bluetooth addr
 The package is quite new and not yet complete. Documentation will be written, when some more platforms are supported and the API has stabilized.
 
 The HCI documentation for hci_* functions found in bluetooth.pas can be found in the BLUETOOTH SPECIFICATION PDF files linked at this <http://en.wikipedia.org/wiki/Bluetooth#Specifications_and_features>, specifically at this: <http://en.wikipedia.org/wiki/Bluetooth#cite_note-bluetooth_specs-31>.
+
+
+### 其他参考资料
+https://forum.lazarus.freepascal.org/index.php?topic=52840.0
+
